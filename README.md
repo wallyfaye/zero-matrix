@@ -1,7 +1,7 @@
-# One Char Away 
-Determines if two strings are composed of all matching characters, execpt for a single error. Strings can be in any order and therefore takes 2(O(N)) time.
+# Zero Matrix  
+In an M x N matrix, find all values "0"s and change their corresponding columns and rows to "0"
 
 ## Usage
 See contents of `run.sh` or use:
 >
-    sh run.sh string_one string_two
+    sh run.sh integer_1 integer_2 
